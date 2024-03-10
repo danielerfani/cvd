@@ -9,16 +9,16 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+info@danialerfani.ir
 
 Phone
-+1 (213) 352-2795
++90 (555) 060-6250
 
 Birthday
-June 23, 1982
+Feb 01, 2000
 
 Location
-Sacramento, California, USA
+Bahçelievler, Istanbul, Turkey
 
 # navbar
 
