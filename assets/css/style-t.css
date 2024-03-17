@@ -21,7 +21,7 @@
     left:50%;
     width: 4px;
     height: 4px;
-    background: #fff;
+    background: #8b8b8b;
     border-radius: 50%;
     box-shadow: 0 0 0 4px rgba(255,255,255,0.1),0 0 0 8px rgba(255,255,255,0.1),0 0 20px rgba(255,255,255,0.1);
     animation: animate 3s linear infinite;
@@ -34,7 +34,7 @@
     transform: translateY(-50%);
     width: 550px;
     height: 1px;
-    background: linear-gradient(90deg,#fff,transparent);
+    background: linear-gradient(90deg,#a51cb8a9,transparent);
 }
 @keyframes animate
 {
